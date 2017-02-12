@@ -1,2 +1,2 @@
-# js-deb-env
+# js-dev-env
 Javascript Development Environment
